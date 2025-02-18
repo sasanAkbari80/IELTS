@@ -1,0 +1,11 @@
+body {
+  background-color: #c7ebdf;
+}
+
+h3:hover {
+  background-color: #65d2e6;
+  width: 20%;
+  height: 30px;
+  border-radius: 100%;
+}
+/****************class tags****************/
