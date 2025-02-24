@@ -1,0 +1,29 @@
+body {
+  background-color: #c7ebdf;
+}
+
+table, th, td, tr{
+  border: 1px solid;
+  border-collapse: collapse;
+  height: 35px;
+}
+
+table {
+  width: 70%;
+  text-align: center;
+}
+th {
+  background-color: #65d2e6
+}
+tr {
+  background-color: #65d2e6
+}
+tr:nth-child(odd) {background-color: #b0b5b8;}
+
+.wrong {
+  color: red;
+}
+
+.correct {
+  color: green;
+}
