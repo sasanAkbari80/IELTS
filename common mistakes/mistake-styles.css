@@ -19,3 +19,7 @@ tr {
   background-color: #65d2e6
 }
 tr:nth-child(odd) {background-color: #b0b5b8;}
+
+.underline {
+  text-decoration: underline;
+}
